@@ -10,10 +10,10 @@ image_metadata:
   credit: Image courtesy MIT Office of Educational Innovation and Technology.
   image-alt: A collage of graphical icons representing software tools.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: res-tl-002s12-th.jpg
 uid: 3a9a88f9-833b-f51a-6cde-7d0e3c4814ad
 ---
 Icons for the STAR educational tools. Image courtesy MIT Office of Educational Innovation and Technology.
-
