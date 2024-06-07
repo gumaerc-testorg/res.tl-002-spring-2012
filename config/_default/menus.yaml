@@ -1,5 +1,5 @@
 leftnav:
-- identifier: external-ea1f1749edc44df2bcf9cc072bb127c7
+- identifier: cb13122c-4c4c-4f20-8d7e-b72981a96a22
   name: Online Publication
-  url: http://web.mit.edu/star/index.html
+  pageRef: /external-resources/online-publication_cb13122c-4c4c-4f20-8d7e-b72981a96a22
   weight: 1000
