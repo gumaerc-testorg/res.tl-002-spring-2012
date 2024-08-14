@@ -64,11 +64,9 @@
   "course_title": "STAR: Software Tools for Academics and Researchers",
   "hide_download": true,
   "course_description": "The Software Tools for Academics and Researchers (STAR) program at MIT seeks to bridge the divide between scientific research and the classroom. Understanding and applying research methods in the classroom setting can be challenging due to time constraints and the need for advanced equipment and facilities. The multidisciplinary STAR team collaborates with faculty from MIT and other educational institutions to design software exploring core scientific research concepts. The goal of STAR is to develop innovative and intuitive teaching tools for classroom use.\n\nAll of the STAR educational tools are freely available. To complement the educational software, the STAR website contains curriculum components/modules which can facilitate the use of STAR educational tools in a variety of educational settings. Students, teachers, and professors should feel welcome to download software and curriculum modules for their own use.\n\n[Online Publication](http://web.mit.edu/star/index.html)\n",
-  "department_numbers": [
-    "RES"
-  ],
+  "department_numbers": [],
   "extra_course_numbers": "",
-  "primary_course_number": "RES.TL-002",
+  "primary_course_number": "RES.TLL-002",
   "course_image_thumbnail": {
     "content": "3a9a88f9-833b-f51a-6cde-7d0e3c4814ad",
     "website": "res-tl-002-star-software-tools-for-academics-and-researchers-spring-2012"
